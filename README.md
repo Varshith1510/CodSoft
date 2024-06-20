@@ -1,1 +1,1 @@
-This repository contains machine learning projects I completed during my virtual internship at CodSoft which showcase different aspects of machine learning, including data preprocessing, model training, evaluation, and deployment.
+This repository contains machine learning projects I completed during my virtual internship at CodSoft.
